@@ -1,0 +1,19 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+   float r;
+   float pi;
+   float perim;
+   float area;
+
+   cin >> r;
+
+   pi = 3.141;
+   perim = 2.0 * pi * r;
+   area  = pi * r * r;
+
+   cout << "Perimetru = " << perim << "\n";
+   cout << "Arie = " << area << "\n";
+   return 0;
+}

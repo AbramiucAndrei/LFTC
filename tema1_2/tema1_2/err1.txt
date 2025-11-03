@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a, b      // lipsa “;”
+    cin >> a >> b;
+    c = a + b;    // "c" nedeclarat
+    cout << c << "\n";
+    return 0;
+}

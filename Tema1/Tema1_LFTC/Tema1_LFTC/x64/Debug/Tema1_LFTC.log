@@ -1,0 +1,4 @@
+﻿  Tema1_LFTC.cpp
+C:\~Local Disk D\Anul 3\Sem 1\LFTC\Tema1\Tema1_LFTC\Tema1_LFTC\Tema1_LFTC.cpp(65,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\~Local Disk D\Anul 3\Sem 1\LFTC\Tema1\Tema1_LFTC\Tema1_LFTC\Tema1_LFTC.cpp(75,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Tema1_LFTC.vcxproj -> C:\~Local Disk D\Anul 3\Sem 1\LFTC\Tema1\Tema1_LFTC\x64\Debug\Tema1_LFTC.exe

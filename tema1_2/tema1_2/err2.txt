@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int _count;        // valid in C++, INVALID in MLP (underscore)
+    float Radius;      // valid in C++, INVALID in MLP (majuscula)
+    cin >> _count >> Radius;
+    float suma = _count * Radius;
+    cout << suma << "\n";
+    return 0;
+}

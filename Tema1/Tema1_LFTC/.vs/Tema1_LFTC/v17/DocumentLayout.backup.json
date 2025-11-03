@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\sum.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|solutionrelative:Tema1_LFTC\\sum.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\Tema1_LFTC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|solutionrelative:Tema1_LFTC\\Tema1_LFTC.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\cmmdc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|solutionrelative:Tema1_LFTC\\cmmdc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\circle.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CE050034-A8AD-421F-B541-10395837C6D0}|Tema1_LFTC\\Tema1_LFTC.vcxproj|solutionrelative:Tema1_LFTC\\circle.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum.txt",
+              "DocumentMoniker": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\sum.txt",
+              "RelativeDocumentMoniker": "Tema1_LFTC\\sum.txt",
+              "ToolTip": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\sum.txt",
+              "RelativeToolTip": "Tema1_LFTC\\sum.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-14T00:37:41.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "cmmdc.txt",
+              "DocumentMoniker": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\cmmdc.txt",
+              "RelativeDocumentMoniker": "Tema1_LFTC\\cmmdc.txt",
+              "ToolTip": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\cmmdc.txt",
+              "RelativeToolTip": "Tema1_LFTC\\cmmdc.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-14T00:33:48.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "circle.txt",
+              "DocumentMoniker": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\circle.txt",
+              "RelativeDocumentMoniker": "Tema1_LFTC\\circle.txt",
+              "ToolTip": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\circle.txt",
+              "RelativeToolTip": "Tema1_LFTC\\circle.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-13T23:07:37.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tema1_LFTC.cpp",
+              "DocumentMoniker": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\Tema1_LFTC.cpp",
+              "RelativeDocumentMoniker": "Tema1_LFTC\\Tema1_LFTC.cpp",
+              "ToolTip": "C:\\~Local Disk D\\Anul 3\\Sem 1\\LFTC\\Tema1\\Tema1_LFTC\\Tema1_LFTC\\Tema1_LFTC.cpp",
+              "RelativeToolTip": "Tema1_LFTC\\Tema1_LFTC.cpp",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAAAIsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-13T21:34:32.425Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

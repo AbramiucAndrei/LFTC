@@ -1,0 +1,7 @@
+Eroare la linia 1: simbol necunoscut '#'
+Eroare la linia 5: simbol necunoscut '_'
+Eroare la linia 6: identificatorul 'Radius' incepe cu majuscula (invalid in MLP)
+Eroare la linia 7: simbol necunoscut '_'
+Eroare la linia 7: identificatorul 'Radius' incepe cu majuscula (invalid in MLP)
+Eroare la linia 8: simbol necunoscut '_'
+Eroare la linia 8: identificatorul 'Radius' incepe cu majuscula (invalid in MLP)

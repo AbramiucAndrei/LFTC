@@ -1,0 +1,19 @@
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    int a;
+    int b;
+    int r;
+
+    cin >> a >> b;
+
+    while (b != 0) {
+        r = a % b;
+        a = b;
+        b = r;
+    }
+    cout << a << "\n";
+    return 0;
+}

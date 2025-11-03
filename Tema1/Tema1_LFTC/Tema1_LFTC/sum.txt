@@ -1,0 +1,23 @@
+#include <iostream>
+
+using namespace std;
+
+inty main() {
+    000
+    inty n;
+    inty i := 0;
+    inty x;
+    inty suma := 0;
+
+    reading(n);
+
+    execute_while (i < n) {
+        reading(x);
+        suma := suma + x;
+        i := i + 1;
+    }
+
+    writing(suma);
+
+    return 0;
+}

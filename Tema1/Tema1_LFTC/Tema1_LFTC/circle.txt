@@ -1,0 +1,20 @@
+#include <iostream>
+
+using namespace std;
+
+inty main() {
+
+	floating raza;
+	floating perimetru;
+	floating aria;
+	floating pi := 3.14159;
+
+	reading(raza);
+
+	perimetru := 2 * pi * raza;
+	aria := pi * raza * raza;
+
+	writing(perimetru);
+	writing(aria);
+	return 0;
+}

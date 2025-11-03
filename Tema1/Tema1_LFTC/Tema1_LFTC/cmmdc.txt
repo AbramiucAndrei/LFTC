@@ -1,0 +1,22 @@
+#include <iostream>
+
+using namespace std;
+
+inty main() {
+    inty a;
+    inty b;
+    inty r;
+
+    reading(a);
+    reading(b);
+
+    execute_while (b != 0) {
+        r := a % b;
+        a := b;
+        b := r;
+    }
+
+    writing(a);
+
+    return 0;
+}
