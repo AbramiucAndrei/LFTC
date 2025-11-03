@@ -1,0 +1,12 @@
+automat        = stari, alfabet, stare_initiala, stari_finale, tranzitii ;
+
+stari          = "Q:", { stare, "," }, stare, "\n" ;
+alfabet        = "Sigma:", { simbol, "," }, simbol, "\n" ;
+stare_initiala = "q0:", stare, "\n" ;
+stari_finale   = "F:", { stare, "," }, stare, "\n" ;
+tranzitii      = "Delta:", { tranzitie, "\n" } ;
+
+tranzitie      = stare, ",", simbol, "->", stare ;
+stare          = "q", { cifra } ;
+simbol         = caracter ;
+cifra          = "0" | "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" ;

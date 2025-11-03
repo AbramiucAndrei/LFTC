@@ -1,0 +1,11 @@
+Q: q1,q2,q3
+Sigma: a,b
+q0: q1
+F: q3
+Delta:
+q1,a->q2
+q1,b->q1
+q2,a->q2
+q2,b->q3
+q3,a->q2
+q3,b->q1
